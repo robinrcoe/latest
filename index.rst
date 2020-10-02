@@ -48,3 +48,14 @@ Here's a grid table followed by a simple table:
 | body row 5             | Cells may also be     |          |
 |                        | empty: ``-->``        |          |
 +------------------------+-----------------------+----------+
+
+
+
+An example::
+
+      Whitespace, newlines, blank lines, and all kinds of markup
+        (like *this* or \this) is preserved by literal blocks.
+    Lookie here, I've dropped an indentation level
+    (but not far enough)
+
+  no more example
