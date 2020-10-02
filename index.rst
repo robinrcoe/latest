@@ -5,6 +5,14 @@
 |     Block quotes are indented. |                                   |
 +--------------------------------+ or::                              |
 | >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
+| >>> print 'Doctest block'      |                                   |
 | Doctest block                  | > Quoted                          |
 +--------------------------------+-----------------------------------+
 | | Line blocks preserve line breaks & indents. [new in 0.3.6]       |
