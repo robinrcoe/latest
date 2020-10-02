@@ -1,5 +1,5 @@
 +--------------------------------+-----------------------------------+
-| Paragraphs are flush-left,     | Literal block, preceded by "::"   |
+| Paragraphs are flush-left,     | Literal block, preceded by "::":   |
 | separated by blank lines.      |                                   |
 |                                |     Indented                      |
 |     Block quotes are indented. |                                   |
