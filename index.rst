@@ -51,7 +51,9 @@ Here's a grid table followed by a simple table:
 
 
 
-An example::
+Results in:
+
+  An example::
 
       Whitespace, newlines, blank lines, and all kinds of markup
         (like *this* or \this) is preserved by literal blocks.
